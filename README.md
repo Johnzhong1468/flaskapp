@@ -1,1 +1,3 @@
 # flaskapp
+
+mysql pw: johnzhongmysqlpw
